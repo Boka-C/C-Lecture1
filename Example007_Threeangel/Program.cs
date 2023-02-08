@@ -2,9 +2,9 @@
 //Console.SetCursorPosition(10, 4);
 //Console.WriteLine("*");
 
-int xa = 7, ya = 1;
-int xb = 1, yb = 5;
-int xc = 15, yc = 5;
+int xa = 10, ya = 2;
+int xb = 20, yb = 1;
+int xc = 3, yc = 18;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("*");
@@ -20,9 +20,9 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 600);
+while(count < 1000);
 {
-    int what = new Random().Next(0,3); //[0;3) 0 1 2
+    int what = new Random().Next(0, 3); //[0;3) 0 1 2
     if(what == 0)
     {
         x = (x+xa)/2;
@@ -42,5 +42,5 @@ while(count < 600);
 
     Console.SetCursorPosition(x, y);
     Console.WriteLine("*");
-    count++;
+    count = count +1;
 }
