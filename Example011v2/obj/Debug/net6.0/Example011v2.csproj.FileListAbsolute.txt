@@ -1,0 +1,15 @@
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\bin\Debug\net6.0\Example011v2.exe
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\bin\Debug\net6.0\Example011v2.deps.json
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\bin\Debug\net6.0\Example011v2.runtimeconfig.json
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\bin\Debug\net6.0\Example011v2.dll
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\bin\Debug\net6.0\Example011v2.pdb
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.csproj.AssemblyReference.cache
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.AssemblyInfoInputs.cache
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.AssemblyInfo.cs
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.dll
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\refint\Example011v2.dll
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.pdb
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\Example011v2.genruntimeconfig.cache
+C:\Users\boris\Desktop\C# lecture 1\Example011v2\obj\Debug\net6.0\ref\Example011v2.dll
