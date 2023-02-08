@@ -5,10 +5,10 @@
     while (index < length)
     {
         collection[index] = new Random().Next(1, 10);
-        //index = index + 1;
         index++;
     }
 }
+
 
 void PrintArray(int[] col)
 {
@@ -21,7 +21,27 @@ void PrintArray(int[] col)
     }
 }
 
-int[] array = new int[10]; // определили массив с указанием его длинны 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = 0;
+    while (index < count)
+    {
+      if(collection[index] == find)
+      {
+         position = index;
+      }
+      index++;
+    }
+    return position;
+}
 
-FillArray(array); // заполнили массив рандомными? числами
-PrintArray(array); // вывели на экран 
+int[] array = new int[10]; //определили массив из 10 значений
+
+FillArray(array); // заполнили массив рандомными значениями
+PrintArray(array); // вывели рандомные значения (пока все работает)
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
